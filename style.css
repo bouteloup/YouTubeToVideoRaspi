@@ -1,0 +1,67 @@
+/* 
+* @Author: remy
+* @Date:   2015-07-16 15:24:47
+* @Last Modified by:   remy
+* @Last Modified time: 2015-07-26 19:15:14
+*/
+
+
+
+tr ,th ,td
+{
+	border: 1px solid grey;
+	padding: 10px;
+	text-align:center;
+	background-color: #F5F5F5
+}
+
+.tableau
+{
+	margin-left: 7.5%;
+}
+
+.titreHaut
+{
+	font-family: 'Indie Flower', cursive;
+	margin-top: 2%;
+	text-align: left;
+	font-size: 30px;
+}
+
+.global
+{
+	width:85% !important; position:relative; z-index:1; margin:auto;
+	margin-top: 1%;
+}
+
+.heure
+{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 40px;
+	margin-top: 2%;
+	margin-left: 7.5%;
+	margin-bottom: 2%;
+}
+
+.boutonEnvoiFLux input
+{
+	width: 120px;
+   	height: 50px;
+	margin-left: 7.5%;
+}
+
+.ButtonReset
+{
+	margin-left: 7.5%;
+	margin-bottom: 1%;
+}
+
+.ZoneDeTexteNumero
+{
+	background-color: #04B431;
+}
+
+.ZoneDeTexteUrl
+{
+	color: #04B431;
+}
